@@ -45,7 +45,7 @@ By the end of these notebooks, you should gain insights into how Keras Tuner can
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Gjeffroy/mnist-keras-tuner/blob/main/LICENSE.md) file for details.
 
 ## Acknowledgments
 
