@@ -42,8 +42,7 @@ Pour exécuter ces notebooks, vous pouvez soit cloner ce référentiel et les ex
 À la fin de ces notebooks, vous devriez avoir des idées sur la manière dont Keras Tuner peut être utilisé de manière efficace pour l'ajustement d'hyperparamètres et la recherche d'architecture neuronale (NAS) pour optimiser les performances du réseau neuronal sur l'ensemble de données MNIST.
 
 ## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/Gjeffroy/mnist-keras-tuner/blob/main/LICENSE.md) pour plus de détails.
 
 ## Remerciements
 
