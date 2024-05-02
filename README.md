@@ -1,3 +1,5 @@
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/Gjeffroy/mnist-keras-tuner/blob/main/README_fr.md)
+
 # Exploring Keras Tuner on the MNIST Dataset
 
 This repository contains Jupyter notebooks developed on Google Colab for exploring the efficacy of Keras Tuner in optimizing neural network architecture (NAS) and hyperparameters tuning for maximizing validation accuracy on the MNIST dataset.
