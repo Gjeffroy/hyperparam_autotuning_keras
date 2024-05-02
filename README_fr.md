@@ -8,7 +8,6 @@ MNIST est un ensemble de données de référence classique dans le domaine de l'
 
 ## Contenu
 
-- `MNIST_NN_hyperparameter_tuning_with_keras_tuner.ipynb`: Ce notebook montre comment utiliser Keras Tuner pour effectuer l'ajustement d'hyperparamètres afin d'optimiser les architectures de réseaux neuronaux (sans couches de convolution) sur l'ensemble de données MNIST.
 - `MNIST_CNN_hyperparameter_tuning_with_keras_tuner.ipynb`: Ce notebook montre comment utiliser Keras Tuner pour effectuer l'ajustement d'hyperparamètres afin d'optimiser les architectures de réseaux neuronaux convolutifs sur l'ensemble de données MNIST.
 
 ## Pour commencer
