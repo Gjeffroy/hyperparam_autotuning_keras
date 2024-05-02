@@ -4,7 +4,7 @@ Ce dépôt contient des notebooks Jupyter développés sur Google Colab pour exp
 
 ## Aperçu
 
-L'ensemble de données MNIST est un ensemble de données de référence classique dans le domaine de l'apprentissage automatique, composé d'images en niveaux de gris de 28x28 pixels de chiffres manuscrits (0-9). Dans ce projet, nous visons à utiliser Keras Tuner, une bibliothèque d'ajustement d'hyperparamètres pour Keras, pour optimiser à la fois l'architecture des réseaux neuronaux et leurs hyperparamètres afin d'obtenir la précision de validation la plus élevée sur l'ensemble de données MNIST.
+MNIST est un ensemble de données de référence classique dans le domaine de l'apprentissage automatique, composé d'images en niveaux de gris de 28x28 pixels de chiffres manuscrits (0-9). Dans ce projet, nous visons à utiliser Keras Tuner, une bibliothèque d'ajustement d'hyperparamètres pour Keras, pour optimiser à la fois l'architecture des réseaux neuronaux et leurs hyperparamètres afin d'obtenir la précision de validation la plus élevée sur l'ensemble de données MNIST.
 
 ## Contenu
 
