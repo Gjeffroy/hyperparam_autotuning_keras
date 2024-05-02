@@ -10,7 +10,6 @@ The MNIST dataset is a classic benchmark dataset in the field of machine learnin
 
 ## Contents
 
-- `MNIST_NN_hyperparameter_tuning_with_keras_tuner.ipynb`: This notebook demonstrates how to use Keras Tuner to perform hyperparameter tuning for optimizing neural network architectures (without convolutional layers) on the MNIST dataset.
 - `MNIST_CNN_hyperparameter_tuning_with_keras_tuner.ipynb`: This notebook demonstrates how to use Keras Tuner to perform hyperparameter tuning for optimizing convolutional neural network architectures on the MNIST dataset.
 
 ## Getting Started
