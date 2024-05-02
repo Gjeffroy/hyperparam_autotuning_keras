@@ -1,6 +1,6 @@
 # Exploration de Keras Tuner sur l'ensemble de données MNIST
 
-Ce référentiel contient des notebooks Jupyter développés sur Google Colab pour explorer l'efficacité de Keras Tuner dans l'optimisation de l'architecture des réseaux neuronaux (NAS) et l'ajustement des hyperparamètres pour maximiser la précision de validation sur l'ensemble de données MNIST.
+Ce dépôt contient des notebooks Jupyter développés sur Google Colab pour explorer l'efficacité de Keras Tuner dans l'optimisation de l'architecture des réseaux neuronaux (NAS) et l'ajustement des hyperparamètres pour maximiser la précision de validation sur l'ensemble de données MNIST.
 
 ## Aperçu
 
