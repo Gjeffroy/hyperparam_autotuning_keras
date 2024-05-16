@@ -1,4 +1,4 @@
-[![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/Gjeffroy/mnist-keras-tuner/blob/main/README_fr.md)
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](#bonjour-je-suis-guillaume)
 
 # Exploring Keras Tuner on the MNIST Dataset
 
